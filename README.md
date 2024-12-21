@@ -9,12 +9,12 @@ Example for mslearn-ai-services
 ![image](https://github.com/user-attachments/assets/06299b7a-7c79-4bd8-a05d-013ec28bd072)
 
 Modules AI:
-https://github.com/MicrosoftLearning/mslearn-ai-services
-https://github.com/MicrosoftLearning/mslearn-ai-vision
-https://github.com/MicrosoftLearning/mslearn-ai-language
-https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence
-https://github.com/MicrosoftLearning/mslearn-knowledge-mining
-https://github.com/MicrosoftLearning/mslearn-openai
+1. https://github.com/MicrosoftLearning/mslearn-ai-services
+2. https://github.com/MicrosoftLearning/mslearn-ai-vision
+3. https://github.com/MicrosoftLearning/mslearn-ai-language
+4. https://github.com/MicrosoftLearning/mslearn-ai-document-intelligence
+5. https://github.com/MicrosoftLearning/mslearn-knowledge-mining
+6. https://github.com/MicrosoftLearning/mslearn-openai
 
 ## Step for Run.
 
