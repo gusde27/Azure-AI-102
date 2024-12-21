@@ -8,7 +8,7 @@ Click the link below > Go to instruction folder > Click Exercise > Follow the in
 Example for mslearn-ai-services
 ![image](https://github.com/user-attachments/assets/06299b7a-7c79-4bd8-a05d-013ec28bd072)
 
-Modules AI:
+Modules AI > Clone all this repos:
 1. https://github.com/MicrosoftLearning/mslearn-ai-services
 2. https://github.com/MicrosoftLearning/mslearn-ai-vision
 3. https://github.com/MicrosoftLearning/mslearn-ai-language
