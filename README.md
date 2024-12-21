@@ -18,7 +18,7 @@ Modules AI:
 
 ## Step for Run.
 
-1. Open this Website
+1. Open this Website : https://labs.xtremelabs.io/LabMenu/?track=AI-102T00-A-CEP
 2. Login With Training Account
 3. Create and Account Microsoft Demo Lab => Create with same license with modul you will explore.
 ![image](https://github.com/user-attachments/assets/2005ad0a-5b9d-46b9-b390-e5309da9185c)
